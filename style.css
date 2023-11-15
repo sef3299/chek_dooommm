@@ -1,0 +1,43 @@
+.navbar-nav{
+    margin-left: 1000px;
+}
+.container-fluid img{
+width: 100px;
+height: 50px;
+}
+#logo2{
+    height: 100px;
+   
+}
+.row{
+    margin-left: 20px;
+}
+.container{}
+#card1{background-color: rgb(0, 255, 110);}
+#card2{background-color: blue;}
+#card3{background-color: black;}
+.card-title,.card-text,.material-symbols-outlined{
+    color: aliceblue;
+}
+.row{
+    margin-right: 100px;
+    margin-top: 30px;
+}
+.container{}
+.col-md-auto{margin-right: 200px;}
+#cr1,#cr2,#cr3,#cr4{
+    background-color: aquamarine;
+    
+}
+#cr1,#cr2{
+    margin-left: 200px;
+    margin-top: 50px;
+   
+}
+#cr3,#cr4{
+    margin-top: 20px;
+}
+#middle{
+  
+    background-image: linear-gradient(-45deg,rgba(0,204,177,.01) 5%,rgba(61,199,223,.1));
+}
